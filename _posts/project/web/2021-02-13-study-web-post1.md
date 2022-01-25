@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Study-App-post1
+title: Project-Web-post1
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,10 +12,10 @@ description: >
 invert_sidebar: true
 categories:
   - study
-  - app
+  - web
 ---
 
-# Study-App-post1
+# Project-Web-post1
 
 What's New in Hydejack 9.1?
 

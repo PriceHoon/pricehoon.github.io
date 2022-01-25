@@ -8,12 +8,12 @@ description: >
   공부하는 것들
 ---
 
-# Study
+# Project
 
 ## 카테고리
 
-* [Web]{:.heading.flip-title} --- 웹 개발
-* [App]{:.heading.flip-title} --- 어플 개발
+* [Java]{:.heading.flip-title} --- Java,Spring
+* [Kotlin]{:.heading.flip-title} --- Kotlin,Android
 
-[Web]: /web/
-[App]: /app/
+[Java]: /java/
+[Kotlin]: /kotlin/

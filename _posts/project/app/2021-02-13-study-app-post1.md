@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example2-post2
+title: Project-App-post1
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -11,10 +11,11 @@ description: >
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
 categories:
-  - example2
+  - study
+  - app
 ---
 
-# Example2-post2
+# Project-App-post1
 
 What's New in Hydejack 9.1?
 

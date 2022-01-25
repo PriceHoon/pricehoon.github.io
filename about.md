@@ -50,5 +50,5 @@ redirect_from:
 ## Skills and Certification
 ---
 -Language : Java,Sql<br>
--FrameWork: Spring,Eclipse,Android<br>
+-FrameWork: Spring,Android<br>
 -Certification : 

@@ -1,13 +1,13 @@
 ---
 layout: list
 category: study
-bigtitle: Web
-slug: web
+bigtitle: Kotlin
+slug: kotlin
 description: >
-  웹 개발공부
+  Kolin,Android
 
 related_posts:
     - 
 list: true
-order: 1
+order: 2
 ---

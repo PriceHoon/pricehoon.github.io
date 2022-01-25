@@ -1,6 +1,6 @@
 ---
 layout: list
-category: study
+category: project
 bigtitle: App
 slug: app
 description: >
