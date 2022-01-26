@@ -8,7 +8,7 @@ description: >
   공부하는 것들
 ---
 
-# Project
+# Study
 
 ## 카테고리
 

@@ -7,9 +7,10 @@ sitemap: false
 hide_last_modified: false
 categories:
   - study
+  - java
 ---
 
-# 코딩테스트 Java
+# 코딩테스트 Java - 1
 
 ## 코딩테스트 Java 1단계 문자열찾기
 
