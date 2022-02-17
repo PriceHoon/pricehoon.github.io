@@ -435,11 +435,4 @@ jekyll_compose:
         - title: Project Link
           url: https://example.com
 
-tipue_search:
-  include:
-    pages: false
-    collections: []
-  exclude:
-    files: []
-    categories: []
-    tags: []         
+       
