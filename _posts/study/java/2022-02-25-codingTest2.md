@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 코딩테스트Java-1
+title: 코딩테스트Java-2
 description: >
-    코딩테스트Java 1단계 문자열
+    코딩테스트Java 2단계 문자열 대 소문자
 sitemap: false
 hide_last_modified: false
 categories:
